@@ -1,2 +1,2 @@
 # Demo
-trying to work with git following a tutorial 
+trying to work with git following a tutorial from freecodecamp!
